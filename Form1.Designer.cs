@@ -40,7 +40,6 @@
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.clock = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.label4 = new System.Windows.Forms.Label();
             this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
             this.SuspendLayout();
             // 
@@ -129,15 +128,6 @@
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(287, 416);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(39, 13);
-            this.label4.TabIndex = 10;
-            this.label4.Text = "Label4";
-            // 
             // notifyIcon1
             // 
             this.notifyIcon1.BalloonTipText = "Your Pomodoro is Finished.";
@@ -152,7 +142,6 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(647, 571);
-            this.Controls.Add(this.label4);
             this.Controls.Add(this.clock);
             this.Controls.Add(this.textBox3);
             this.Controls.Add(this.textBox2);
@@ -181,7 +170,6 @@
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Label clock;
         private System.Windows.Forms.Timer timer1;
-        private System.Windows.Forms.Label label4;
         private System.Windows.Forms.NotifyIcon notifyIcon1;
     }
 }

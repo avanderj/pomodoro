@@ -7,3 +7,6 @@ c:\users\anna\documents\visual studio 2015\Projects\pomodoro\pomodoro\obj\Debug\
 c:\users\anna\documents\visual studio 2015\Projects\pomodoro\pomodoro\obj\Debug\pomodoro.csproj.GenerateResource.Cache
 c:\users\anna\documents\visual studio 2015\Projects\pomodoro\pomodoro\obj\Debug\pomodoro.exe
 c:\users\anna\documents\visual studio 2015\Projects\pomodoro\pomodoro\obj\Debug\pomodoro.pdb
+C:\Users\anna\Documents\GitHub\pomodoro\bin\Debug\pomodoro.exe.config
+C:\Users\anna\Documents\GitHub\pomodoro\obj\Debug\pomodoro.exe
+C:\Users\anna\Documents\GitHub\pomodoro\obj\Debug\pomodoro.pdb
